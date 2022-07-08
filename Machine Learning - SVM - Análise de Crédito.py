@@ -11,7 +11,7 @@ from sklearn.preprocessing import OneHotEncoder
 # =============================================================================
 # Base de dados - Crédito
 # =============================================================================
-df = pd.read_csv(r"D:\01. Python\Diversos\Machine Learning\machine-learning-master\dados\exemplo3.csv")
+df = pd.read_csv(r"D:\01. Python\Diversos\Machine Learning\\dados\exemplo3.csv")
 df.head()
 
 df.describe()
